@@ -1,0 +1,24 @@
+.container {
+    @apply flex justify-between items-center bg-blue-200 my-1 py-2 px-2 m-5 rounded-md hover:shadow-lg duration-75 border border-gray-300;
+    .title {
+    @apply text-lg font-semibold mr-5 w-[300px];
+}
+    .body {
+    @apply text-lg mx-[50px] font-semibold text-ellipsis overflow-hidden whitespace-nowrap w-[800px]  
+}
+    
+}
+
+.checkedContainer {
+    @apply flex justify-between items-center bg-blue-100 my-1 py-2 px-2 m-5 rounded-md hover:shadow-lg duration-75 border border-gray-300 overflow-x-hidden;
+    .title {
+    @apply text-lg mr-5 w-[300px];
+}
+    .body {
+    @apply text-lg mx-[50px] text-ellipsis overflow-hidden whitespace-nowrap w-[800px]
+}
+}
+
+.checkbox {
+    @apply mr-3
+}

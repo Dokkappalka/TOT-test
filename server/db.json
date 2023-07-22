@@ -1,0 +1,491 @@
+{
+  "dirs": [
+    {
+      "id": 1,
+      "title": "Входящие",
+      "type": "inbox"
+    },
+    {
+      "id": 2,
+      "title": "Отправленные",
+      "type": "sent"
+    },
+    {
+      "id": 3,
+      "title": "Черновики",
+      "type": "none"
+    },
+    {
+      "id": 4,
+      "title": "Удаленные",
+      "type": "universal"
+    },
+    {
+      "id": 5,
+      "title": "Спам",
+      "type": "universal"
+    }
+  ],
+  "mail": [
+    {
+      "id": 1,
+      "title": "Что делать, если нету воображения?",
+      "body": "Друг мой, друг мой, Я очень и очень болен. Сам не знаю, откуда взялась эта боль. То ли ветер свистит Над пустым и безлюдным полем, То ль, как рощу в сентябрь, Осыпает мозги алкоголь.",
+      "to": "me@gmail.com",
+      "author": "sed@gmail.com",
+      "type": "inbox",
+      "isChecked": false,
+      "date": "10.03.2002",
+      "dir": 1
+    },
+    {
+      "id": 2,
+      "title": "А Lorem не хочется пихать везде?",
+      "body": "Голова моя машет ушами, Как крыльями птица. Ей на шее ноги Маячить больше невмочь. Черный человек, Черный, черный, Черный человек На кровать ко мне садится, Черный человек Спать не дает мне всю ночь.",
+      "to": "me@gmail.com",
+      "author": "sed@gmail.com",
+      "type": "inbox",
+      "isChecked": false,
+      "date": "10.03.2002",
+      "dir": 1
+    },
+    {
+      "id": 3,
+      "title": "Я вот тоже не знаю...",
+      "body": "Черный человек Водит пальцем по мерзкой книге И, гнусавя надо мной, Как над усопшим монах, Читает мне жизнь Какого-то прохвоста и забулдыги, Нагоняя на душу тоску и страх. Черный человек Черный, черный…",
+      "to": "me@gmail.com",
+      "author": "nihil@mail.ru",
+      "type": "inbox",
+      "isChecked": false,
+      "date": "10.03.2002",
+      "dir": 1
+    },
+    {
+      "id": 4,
+      "title": "Приходится идти на компромиссы",
+      "body": "«Слушай, слушай, — Бормочет он мне, — В книге много прекраснейших Мыслей и планов. Этот человек Проживал в стране Самых отвратительных Громил и шарлатанов.",
+      "to": "me@gmail.com",
+      "author": "tempora@gmail.com",
+      "type": "inbox",
+      "isChecked": false,
+      "date": "10.03.2002",
+      "dir": 1
+    },
+    {
+      "id": 5,
+      "title": "И просто писать чушь...",
+      "body": "В декабре в той стране Снег до дьявола чист, И метели заводят Веселые прялки. Был человек тот авантюрист, Но самой высокой И лучшей марки.",
+      "to": "me@gmail.com",
+      "author": "quae@list.ru",
+      "type": "inbox",
+      "isChecked": false,
+      "date": "10.03.2002",
+      "dir": 1
+    },
+    {
+      "id": 6,
+      "title": "Отправленное письмо",
+      "body": "Был он изящен, К тому ж поэт, Хоть с небольшой, Но ухватистой силою, И какую-то женщину, Сорока с лишним лет, Называл скверной девочкой И своею милою».",
+      "to": "me@gmail.com",
+      "author": "spamer@spam.com",
+      "type": "inbox",
+      "isChecked": false,
+      "date": "10.03.2002",
+      "dir": 1
+    },
+    {
+      "id": 7,
+      "title": "И еще одно к отправке",
+      "body": "«Счастье, — говорил он, — Есть ловкость ума и рук. Все неловкие души За несчастных всегда известны. Это ничего, Что много мук Приносят изломанные И лживые жесты.",
+      "to": "me@gmail.com",
+      "author": "Steve21@gmail.com",
+      "type": "inbox",
+      "isChecked": true,
+      "date": "10.03.2002",
+      "dir": 1
+    },
+    {
+      "id": 8,
+      "title": "Глупости",
+      "body": "В грозы, в бури, В житейскую стынь, При тяжелых утратах И когда тебе грустно, Казаться улыбчивым и простым — Самое высшее в мире искусство».",
+      "to": "me@gmail.com",
+      "author": "spamer@spam.com",
+      "type": "inbox",
+      "isChecked": true,
+      "date": "10.03.2002",
+      "dir": 1
+    },
+    {
+      "id": 9,
+      "title": "Лорем ипсум",
+      "body": "«Черный человек! Ты не смеешь этого! Ты ведь не на службе Живешь водолазовой. Что мне до жизни Скандального поэта. Пожалуйста, другим Читай и рассказывай».",
+      "to": "me@gmail.com",
+      "author": "consectetur@yahoo.com",
+      "type": "inbox",
+      "isChecked": true,
+      "date": "10.03.2002",
+      "dir": 1
+    },
+    {
+      "id": 10,
+      "title": "Вот это да...",
+      "body": "Черный человек Глядит на меня в упор. И глаза покрываются Голубой блевотой. Словно хочет сказать мне, Что я жулик и вор, Так бесстыдно и нагло Обокравший кого-то",
+      "to": "me@gmail.com",
+      "author": "amet@amet.amet",
+      "type": "inbox",
+      "isChecked": true,
+      "date": "10.03.2002",
+      "dir": 1
+    },
+    {
+      "id": 11,
+      "title": "Письмо",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto sunt omnis nemo dolore earum molestias. Amet, atque eligendi accusantium est assumenda veniam iusto debitis placeat tempore id, vitae, perspiciatis recusandae laudantium ex minus ratione. Voluptatibus maiores illo, amet ab, tempora architecto quae, corporis quo ducimus alias aut mollitia nihil sed.",
+      "to": "sed@gmail.com",
+      "author": "me@gmail.com",
+      "type": "sent",
+      "date": "10.03.2002",
+      "dir": 2
+    },
+    {
+      "id": 12,
+      "title": "Lorem ipsum dolor",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto sunt omnis nemo dolore earum molestias. Amet, atque eligendi accusantium est assumenda veniam iusto debitis placeat tempore id, vitae, perspiciatis recusandae laudantium ex minus ratione. Voluptatibus maiores illo, amet ab, tempora architecto quae, corporis quo ducimus alias aut mollitia nihil sed.",
+      "to": "nihil@mail.ru",
+      "author": "me@gmail.com",
+      "type": "sent",
+      "date": "10.03.2002",
+      "dir": 2
+    },
+    {
+      "id": 13,
+      "title": "consectetur adipisicing elit",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto sunt omnis nemo dolore earum molestias. Amet, atque eligendi accusantium est assumenda veniam iusto debitis placeat tempore id, vitae, perspiciatis recusandae laudantium ex minus ratione. Voluptatibus maiores illo, amet ab, tempora architecto quae, corporis quo ducimus alias aut mollitia nihil sed.",
+      "to": "alias@yandex.ru",
+      "author": "me@gmail.com",
+      "type": "sent",
+      "date": "10.03.2002",
+      "dir": 2
+    },
+    {
+      "id": 14,
+      "title": "quo ducimus alias aut mollitia nihil sed quo ducimus alias aut mollitia nihil sed quo ducimus alias aut mollitia nihil sed quo ducimus alias aut mollitia nihil sed ",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto sunt omnis nemo dolore earum molestias. Amet, atque eligendi accusantium est assumenda veniam iusto debitis placeat tempore id, vitae, perspiciatis recusandae laudantium ex minus ratione. Voluptatibus maiores illo, amet ab, tempora architecto quae, corporis quo ducimus alias aut mollitia nihil sed.",
+      "to": "aut@yahoo.com",
+      "author": "me@gmail.com",
+      "type": "sent",
+      "date": "10.03.2002",
+      "dir": 2
+    },
+    {
+      "id": 15,
+      "title": "nemo dolore earum molestias",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto sunt omnis nemo dolore earum molestias. Amet, atque eligendi accusantium est assumenda veniam iusto debitis placeat tempore id, vitae, perspiciatis recusandae laudantium ex minus ratione. Voluptatibus maiores illo, amet ab, tempora architecto quae, corporis quo ducimus alias aut mollitia nihil sed.",
+      "to": "quae@list.ru",
+      "author": "me@gmail.com",
+      "type": "sent",
+      "date": "10.03.2002",
+      "dir": 2
+    },
+    {
+      "id": 16,
+      "title": "Iusto sunt omnis",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto sunt omnis nemo dolore earum molestias. Amet, atque eligendi accusantium est assumenda veniam iusto debitis placeat tempore id, vitae, perspiciatis recusandae laudantium ex minus ratione. Voluptatibus maiores illo, amet ab, tempora architecto quae, corporis quo ducimus alias aut mollitia nihil sed.",
+      "to": "tempora@gmail.com",
+      "author": "me@gmail.com",
+      "type": "sent",
+      "date": "10.03.2002",
+      "dir": 2
+    },
+    {
+      "id": 17,
+      "title": "Ещё какое-то письмо",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto sunt omnis nemo dolore earum molestias. Amet, atque eligendi accusantium est assumenda veniam iusto debitis placeat tempore id, vitae, perspiciatis recusandae laudantium ex minus ratione. Voluptatibus maiores illo, amet ab, tempora architecto quae, corporis quo ducimus alias aut mollitia nihil sed.",
+      "to": "architecto@pochta.ru",
+      "author": "me@gmail.com",
+      "type": "sent",
+      "date": "10.03.2002",
+      "dir": 2
+    },
+    {
+      "id": 18,
+      "title": "veniam iusto debitis",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto sunt omnis nemo dolore earum molestias. Amet, atque eligendi accusantium est assumenda veniam iusto debitis placeat tempore id, vitae, perspiciatis recusandae laudantium ex minus ratione. Voluptatibus maiores illo, amet ab, tempora architecto quae, corporis quo ducimus alias aut mollitia nihil sed.",
+      "to": "quae@list.ru",
+      "author": "me@gmail.com",
+      "type": "sent",
+      "date": "10.03.2002",
+      "dir": 2
+    },
+    {
+      "id": 19,
+      "title": "Lorem ipsum dolor",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto sunt omnis nemo dolore earum molestias. Amet, atque eligendi accusantium est assumenda veniam iusto debitis placeat tempore id, vitae, perspiciatis recusandae laudantium ex minus ratione. Voluptatibus maiores illo, amet ab, tempora architecto quae, corporis quo ducimus alias aut mollitia nihil sed.",
+      "to": "sed@gmail.com",
+      "author": "me@gmail.com",
+      "type": "sent",
+      "date": "10.03.2002",
+      "dir": 2
+    },
+    {
+      "id": 20,
+      "title": "Очередное письмо!",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto sunt omnis nemo dolore earum molestias. Amet, atque eligendi accusantium est assumenda veniam iusto debitis placeat tempore id, vitae, perspiciatis recusandae laudantium ex minus ratione. Voluptatibus maiores illo, amet ab, tempora architecto quae, corporis quo ducimus alias aut mollitia nihil sed.",
+      "to": "sed@gmail.com",
+      "author": "me@gmail.com",
+      "type": "sent",
+      "date": "10.03.2002",
+      "dir": 2
+    },
+    {
+      "id": 21,
+      "title": "Что-то важное",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "to": "qwerty@gmail.com",
+      "author": "me@gmail.com",
+      "type": "sent",
+      "date": "10.03.2002",
+      "dir": 3
+    },
+    {
+      "id": 22,
+      "title": "Важно",
+      "body": "...",
+      "to": "somebody@list.ru",
+      "author": "me@gmail.com",
+      "type": "sent",
+      "date": "10.03.2002",
+      "dir": 3
+    },
+    {
+      "id": 23,
+      "title": "Ответ от компании",
+      "body": "Здравствуйте, Федор. В данный момент нам не требуются Frontend-разработчики. Перестаньте сюда писать!",
+      "to": "Theussellessmouth@gmail.com",
+      "author": "me@gmail.com",
+      "type": "sent",
+      "date": "10.03.2002",
+      "dir": 3
+    },
+    {
+      "id": 31,
+      "title": "Похоже, что вы выиграли очень много денег!",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto sunt omnis nemo dolore earum molestias. Amet, atque eligendi accusantium est assumenda veniam iusto debitis placeat tempore id, vitae, perspiciatis recusandae laudantium ex minus ratione. Voluptatibus maiores illo, amet ab, tempora architecto quae, corporis quo ducimus alias aut mollitia nihil sed.",
+      "to": "me@gmail.com",
+      "author": "razvod96@mail.ru",
+      "type": "inbox",
+      "isChecked": true,
+      "date": "10.03.2002",
+      "dir": 4
+    },
+    {
+      "id": 32,
+      "title": "Ура! Вы стали победителем!",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto sunt omnis nemo dolore earum molestias. Amet, atque eligendi accusantium est assumenda veniam iusto debitis placeat tempore id, vitae, perspiciatis recusandae laudantium ex minus ratione. Voluptatibus maiores illo, amet ab, tempora architecto quae, corporis quo ducimus alias aut mollitia nihil sed.",
+      "to": "me@gmail.com",
+      "author": "razvod96@mail.ru",
+      "type": "inbox",
+      "isChecked": true,
+      "date": "10.03.2002",
+      "dir": 4
+    },
+    {
+      "id": 33,
+      "title": "Вау! похоже, что вам повезло",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto sunt omnis nemo dolore earum molestias. Amet, atque eligendi accusantium est assumenda veniam iusto debitis placeat tempore id, vitae, perspiciatis recusandae laudantium ex minus ratione. Voluptatibus maiores illo, amet ab, tempora architecto quae, corporis quo ducimus alias aut mollitia nihil sed.",
+      "to": "me@gmail.com",
+      "author": "razvod96@mail.ru",
+      "type": "inbox",
+      "isChecked": true,
+      "date": "10.03.2002",
+      "dir": 4
+    },
+    {
+      "id": 34,
+      "title": "Дарим деньги!",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto sunt omnis nemo dolore earum molestias. Amet, atque eligendi accusantium est assumenda veniam iusto debitis placeat tempore id, vitae, perspiciatis recusandae laudantium ex minus ratione. Voluptatibus maiores illo, amet ab, tempora architecto quae, corporis quo ducimus alias aut mollitia nihil sed.",
+      "to": "me@gmail.com",
+      "author": "razvod96@mail.ru",
+      "type": "inbox",
+      "isChecked": true,
+      "date": "10.03.2002",
+      "dir": 4
+    },
+    {
+      "id": 35,
+      "title": "Похоже, что вы выиграли очень много денег!",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto sunt omnis nemo dolore earum molestias. Amet, atque eligendi accusantium est assumenda veniam iusto debitis placeat tempore id, vitae, perspiciatis recusandae laudantium ex minus ratione. Voluptatibus maiores illo, amet ab, tempora architecto quae, corporis quo ducimus alias aut mollitia nihil sed.",
+      "to": "me@gmail.com",
+      "author": "razvod96@mail.ru",
+      "type": "inbox",
+      "isChecked": true,
+      "date": "10.03.2002",
+      "dir": 4
+    },
+    {
+      "id": 36,
+      "title": "Вы стали миллионером!",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto sunt omnis nemo dolore earum molestias. Amet, atque eligendi accusantium est assumenda veniam iusto debitis placeat tempore id, vitae, perspiciatis recusandae laudantium ex minus ratione. Voluptatibus maiores illo, amet ab, tempora architecto quae, corporis quo ducimus alias aut mollitia nihil sed.",
+      "to": "me@gmail.com",
+      "author": "razvod96@mail.ru",
+      "type": "inbox",
+      "isChecked": true,
+      "date": "10.03.2002",
+      "dir": 4
+    },
+    {
+      "id": 37,
+      "title": "Купите наш товар по скидке",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto sunt omnis nemo dolore earum molestias. Amet, atque eligendi accusantium est assumenda veniam iusto debitis placeat tempore id, vitae, perspiciatis recusandae laudantium ex minus ratione. Voluptatibus maiores illo, amet ab, tempora architecto quae, corporis quo ducimus alias aut mollitia nihil sed.",
+      "to": "me@gmail.com",
+      "author": "razvod96@mail.ru",
+      "type": "inbox",
+      "isChecked": false,
+      "date": "10.03.2002",
+      "dir": 4
+    },
+    {
+      "id": 38,
+      "title": "Вас взломали",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto sunt omnis nemo dolore earum molestias. Amet, atque eligendi accusantium est assumenda veniam iusto debitis placeat tempore id, vitae, perspiciatis recusandae laudantium ex minus ratione. Voluptatibus maiores illo, amet ab, tempora architecto quae, corporis quo ducimus alias aut mollitia nihil sed.",
+      "to": "me@gmail.com",
+      "author": "razvod96@mail.ru",
+      "type": "inbox",
+      "isChecked": true,
+      "date": "10.03.2002",
+      "dir": 4
+    },
+    {
+      "id": 39,
+      "title": "Смена пароля",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto sunt omnis nemo dolore earum molestias. Amet, atque eligendi accusantium est assumenda veniam iusto debitis placeat tempore id, vitae, perspiciatis recusandae laudantium ex minus ratione. Voluptatibus maiores illo, amet ab, tempora architecto quae, corporis quo ducimus alias aut mollitia nihil sed.",
+      "to": "me@gmail.com",
+      "author": "razvod96@mail.ru",
+      "type": "inbox",
+      "isChecked": true,
+      "date": "10.03.2002",
+      "dir": 4
+    },
+    {
+      "id": 40,
+      "title": "Распродажа!",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto sunt omnis nemo dolore earum molestias. Amet, atque eligendi accusantium est assumenda veniam iusto debitis placeat tempore id, vitae, perspiciatis recusandae laudantium ex minus ratione. Voluptatibus maiores illo, amet ab, tempora architecto quae, corporis quo ducimus alias aut mollitia nihil sed.Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto sunt omnis nemo dolore earum molestias. Amet, atque eligendi accusantium est assumenda veniam iusto debitis placeat tempore id, vitae, perspiciatis recusandae laudantium ex minus ratione. Voluptatibus maiores illo, amet ab, tempora architecto quae, corporis quo ducimus alias aut mollitia nihil sed.",
+      "to": "me@gmail.com",
+      "author": "razvod96@mail.ru",
+      "type": "inbox",
+      "isChecked": false,
+      "date": "10.03.2002",
+      "dir": 4
+    },
+    {
+      "id": 41,
+      "title": "Я бы хотел у вас работать",
+      "body": "Здравствуйте, я бы хотел у вас работать. \nПрошу вас рассмотреть мое резюме (Junior Frontend разработчик). \nЯ бы хотел начать свою карьеру разработчика с работы в вашей компании. \nЯ неплохо знаком с React (а также Next.js), у меня есть несколько учебных проектов, с которыми можно ознакомиться на моем гитхабе, ссылка на который находится в резюме. \nЯ коммуникабелен, ответственен, быстро учусь, что, на мой взгляд, может сделать меня полезной частью вашей команды. С нетерпением жду вашего ответа. С уважением,Зыков Федор.",
+      "to": "me@gmail.com",
+      "author": "Theussellessmouth@gmail.com",
+      "type": "inbox",
+      "isChecked": true,
+      "date": "10.03.2002",
+      "dir": 5
+    },
+    {
+      "id": 42,
+      "title": "Отклик на вакансию Frontent-разработчик",
+      "body": "Здравствуйте, я бы хотел у вас работать. \nПрошу вас рассмотреть мое резюме (Junior Frontend разработчик). \nЯ бы хотел начать свою карьеру разработчика с работы в вашей компании. \nЯ неплохо знаком с React (а также Next.js), у меня есть несколько учебных проектов, с которыми можно ознакомиться на моем гитхабе, ссылка на который находится в резюме. \nЯ коммуникабелен, ответственен, быстро учусь, что, на мой взгляд, может сделать меня полезной частью вашей команды. С нетерпением жду вашего ответа. С уважением,Зыков Федор.",
+      "to": "me@gmail.com",
+      "author": "Theussellessmouth@gmail.com",
+      "type": "inbox",
+      "isChecked": false,
+      "date": "10.03.2002",
+      "dir": 5
+    },
+    {
+      "id": 43,
+      "title": "Вакансия Frontend-developer",
+      "body": "Здравствуйте, я бы хотел у вас работать. \nПрошу вас рассмотреть мое резюме (Junior Frontend разработчик). \nЯ бы хотел начать свою карьеру разработчика с работы в вашей компании. \nЯ неплохо знаком с React (а также Next.js), у меня есть несколько учебных проектов, с которыми можно ознакомиться на моем гитхабе, ссылка на который находится в резюме. \nЯ коммуникабелен, ответственен, быстро учусь, что, на мой взгляд, может сделать меня полезной частью вашей команды. С нетерпением жду вашего ответа. С уважением,Зыков Федор.",
+      "to": "me@gmail.com",
+      "author": "Theussellessmouth@gmail.com",
+      "type": "inbox",
+      "isChecked": true,
+      "date": "10.03.2002",
+      "dir": 5
+    },
+    {
+      "id": 44,
+      "title": "Работа в вашей компании",
+      "body": "Здравствуйте, я бы хотел у вас работать. \nПрошу вас рассмотреть мое резюме (Junior Frontend разработчик). \nЯ бы хотел начать свою карьеру разработчика с работы в вашей компании. \nЯ неплохо знаком с React (а также Next.js), у меня есть несколько учебных проектов, с которыми можно ознакомиться на моем гитхабе, ссылка на который находится в резюме. \nЯ коммуникабелен, ответственен, быстро учусь, что, на мой взгляд, может сделать меня полезной частью вашей команды. С нетерпением жду вашего ответа. С уважением,Зыков Федор.",
+      "to": "me@gmail.com",
+      "author": "Theussellessmouth@gmail.com",
+      "type": "inbox",
+      "isChecked": false,
+      "date": "10.03.2002",
+      "dir": 5
+    },
+    {
+      "id": 45,
+      "title": "Хочу у вас работать",
+      "body": "Здравствуйте, я бы хотел у вас работать. \nПрошу вас рассмотреть мое резюме (Junior Frontend разработчик). \nЯ бы хотел начать свою карьеру разработчика с работы в вашей компании. \nЯ неплохо знаком с React (а также Next.js), у меня есть несколько учебных проектов, с которыми можно ознакомиться на моем гитхабе, ссылка на который находится в резюме. \nЯ коммуникабелен, ответственен, быстро учусь, что, на мой взгляд, может сделать меня полезной частью вашей команды. С нетерпением жду вашего ответа. С уважением,Зыков Федор.",
+      "to": "me@gmail.com",
+      "author": "Theussellessmouth@gmail.com",
+      "type": "inbox",
+      "isChecked": false,
+      "date": "10.03.2002",
+      "dir": 5
+    },
+    {
+      "id": 46,
+      "title": "Работа Frontend-dev",
+      "body": "Здравствуйте, я бы хотел у вас работать. \nПрошу вас рассмотреть мое резюме (Junior Frontend разработчик). \nЯ бы хотел начать свою карьеру разработчика с работы в вашей компании. \nЯ неплохо знаком с React (а также Next.js), у меня есть несколько учебных проектов, с которыми можно ознакомиться на моем гитхабе, ссылка на который находится в резюме. \nЯ коммуникабелен, ответственен, быстро учусь, что, на мой взгляд, может сделать меня полезной частью вашей команды. С нетерпением жду вашего ответа. С уважением,Зыков Федор.",
+      "to": "me@gmail.com",
+      "author": "Theussellessmouth@gmail.com",
+      "type": "inbox",
+      "isChecked": false,
+      "date": "10.03.2002",
+      "dir": 5
+    },
+    {
+      "id": 47,
+      "title": "Junior Frontent-разработчик",
+      "body": "Здравствуйте, я бы хотел у вас работать. \nПрошу вас рассмотреть мое резюме (Junior Frontend разработчик). \nЯ бы хотел начать свою карьеру разработчика с работы в вашей компании. \nЯ неплохо знаком с React (а также Next.js), у меня есть несколько учебных проектов, с которыми можно ознакомиться на моем гитхабе, ссылка на который находится в резюме. \nЯ коммуникабелен, ответственен, быстро учусь, что, на мой взгляд, может сделать меня полезной частью вашей команды. С нетерпением жду вашего ответа. С уважением,Зыков Федор.",
+      "to": "me@gmail.com",
+      "author": "Theussellessmouth@gmail.com",
+      "type": "inbox",
+      "isChecked": false,
+      "date": "10.03.2002",
+      "dir": 5
+    },
+    {
+      "id": 48,
+      "title": "Почему вы мне не отвечаете?",
+      "body": "Здравствуйте. Я откликался на вашу вакансию оже около 7 раз, но вы мне так и не ответили. Проверьте пожалуйста, свою почту. Возможно, мои сообщения затерялись.",
+      "to": "me@gmail.com",
+      "author": "Theussellessmouth@gmail.com",
+      "type": "inbox",
+      "isChecked": false,
+      "date": "10.03.2002",
+      "dir": 5
+    },
+    {
+      "id": 49,
+      "title": "ПОЖАЛУЙСТА, ОТВЕТЬТЕ!!!",
+      "body": "Мне кажется, или вы специально меня игнорируете? Пожалуйста, рассмотрите меня на данную должность...",
+      "to": "me@gmail.com",
+      "author": "Theussellessmouth@gmail.com",
+      "type": "inbox",
+      "isChecked": false,
+      "date": "10.03.2002",
+      "dir": 5
+    },
+    {
+      "id": 50,
+      "title": "Ну хотя бы полы мыть...",
+      "body": "Если не хотите брать меня разработчиком, то хотя бы дайте знать. Надеюсь, что я не назойливый...",
+      "to": "me@gmail.com",
+      "author": "Theussellessmouth@gmail.com",
+      "type": "inbox",
+      "isChecked": false,
+      "date": "10.03.2002",
+      "dir": 5
+    }
+  ]
+}

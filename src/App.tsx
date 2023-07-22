@@ -1,26 +1,29 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
-
+import React, { useEffect } from 'react'
+import Header from './components/Header/Header'
+import Footer from './components/Footer/Footer'
+import styles from './App.module.scss'
+import { Routes, Route, Navigate } from 'react-router-dom'
+import Navigation from './components/Navigation/Navigation'
+import InboxPage from './pages/InboxPage/InboxPage'
+import MessagePage from './pages/MessagePage/MessagePage'
 function App() {
+  console.log(process.env.REACT_APP_API)
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <Header />
+      <main className={styles.main}>
+        <Navigation />
+        <div className={styles.pageContainer}>
+          <Routes>
+            <Route path='/' element={<Navigate to='/mail/?dir=1' />} />
+            <Route path='/mail' element={<InboxPage />} />
+            <Route path='/message' element={<MessagePage />} />
+          </Routes>
+        </div>
+      </main>
+      <Footer />
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
